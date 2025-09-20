@@ -10,7 +10,7 @@ TOPIC = "smarthome/#"  # Subscribe to all topics under smarthome/
 
 # Database setup
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_PATH = os.path.join(BASE_DIR, "iot_database.db")
+DB_PATH = os.path.join(BASE_DIR, "smartHome_db.db")
 
 print(f"📂 Using database at: {DB_PATH}")
 

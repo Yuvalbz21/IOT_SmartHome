@@ -22,7 +22,7 @@ CONTROL_TOPIC = "smarthome/control/dht"
 SENSOR_TOPIC = "smarthome/sensor/dht"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_NAME = os.path.join(BASE_DIR, "..", "database", "iot_database.db")
+DB_NAME = os.path.join(BASE_DIR, "..", "database", "smartHome_db.db")
 
 
 class SmartHomeGUI(QWidget):
