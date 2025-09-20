@@ -42,6 +42,7 @@ smart_home_iot/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## 🚀 Getting Started
 
