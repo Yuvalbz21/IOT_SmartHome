@@ -1,7 +1,7 @@
 import sqlite3
 
 # Database file
-DB_NAME = "iot_database.db"
+DB_NAME = "smartHome_db.db"
 
 def get_latest_data(limit=20):
     """Retrieve the latest sensor data from the database."""
