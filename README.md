@@ -52,12 +52,14 @@ smart_home_iot/
 ### Running the GUI
 ```bash
 python ui/main_window.py
+```
 
 ### Running Simulators
 Each emulator can be run individually, for example:
 ```bash
 python simulators/sensor_dht_emulator.py
 python simulators/relay_emulator.py
+```
 
 ## 🛠 Tech Stack
 - **Python 3.10+**  
