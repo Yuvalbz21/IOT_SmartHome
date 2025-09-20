@@ -4,7 +4,7 @@ import json
 import os
 
 # MQTT connection settings
-BROKER = "test.mosquitto.org"
+BROKER = "broker.hivemq.com"
 PORT = 1883
 TOPIC = "smarthome/#"  # Subscribe to all topics under smarthome/
 

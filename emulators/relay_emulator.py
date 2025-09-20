@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt
 
-BROKER = "test.mosquitto.org"
+BROKER = "broker.hivemq.com"
 
 PORT = 1883
 CONTROL_TOPIC = "smarthome/control/relay"
